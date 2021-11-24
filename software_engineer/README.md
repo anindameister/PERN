@@ -168,3 +168,5 @@ Remarks:
 
 ![frontend](https://github.com/anindameister/coding-interview/blob/master/software_engineer/photos/frontEnd.PNG)
 
+- `restful` and `reactive` (`restful` and `reactive`)[https://www.youtube.com/watch?v=W_VV2Fx32_Y]
+
